@@ -55,15 +55,15 @@
       }
       .lok{
          position: absolute; 
-         left: 10px;
+         left: 00px;
       }
       .klok{
            position: absolute;
-           left: 110px;
+           left: 95px;
       }
       .loki{
            position: relative;
-           left: 160px;
+           left: 150px;
       }
       #lokiter{
           background-color: #4e9447;
@@ -102,7 +102,7 @@
             <a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
             <a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Galeria zdjęć</a>
         </nav>
-        <img class="img" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Ustka_z_lotu_ptaka_IMG_6828.jpg">
+        
         </div>
         <div id="lokiter">
          <h3 id="akt">Galeria zdjęć</h3>
