@@ -1,5 +1,4 @@
-# galeria-zdjec
-
+# Galeria-zdjec
 <!DOCTYPE html>
 <html>
     <head>
@@ -85,6 +84,10 @@
           width: 40%;
           height: 50%;
           position: fixed;
+      }
+      img {
+      width: 20%;
+     
       }
         </style>
     </head>
