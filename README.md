@@ -19,7 +19,7 @@
            width: 100%;
            height: 70px;
            position: absolute;
-           font-family: fantasy;
+           font-family: Arial;
            float: left;
           left: 0px;
        }
@@ -69,8 +69,8 @@
           background-color: #4e9447;
           position: absolute;
           top:300px;
-          right: 47px;
-         width:40%;
+          right: 0px;
+         width:70%;
          font-size: 20px;
       }
       #akt{
@@ -80,8 +80,8 @@
       .img{
           float: left;
           top: 100px;
-          left: 60px;
-          width: 40%;
+          left: 0px;
+          width: 30%;
           height: 50%;
           position: fixed;
       }
