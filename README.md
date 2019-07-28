@@ -175,7 +175,7 @@
 <p>Sound of gavity</p>
 <img src="https://s6.ifotos.pl/img/201907281_qsesrpp.jpg">
 
-<p>Politechnika Wrocławska </p>
+<p>Politechnika Wrocławska ośrodek wczasowy</p>
 
         </div>
        
