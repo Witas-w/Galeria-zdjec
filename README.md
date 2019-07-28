@@ -66,6 +66,7 @@
           left: 140px;
       }
       #lokiter{
+          z-index: 2;
           background-color: #4e9447;
           position: absolute;
           top:300px;
@@ -90,6 +91,16 @@
       width: 20%;
      
       }
+      #img {
+       position: absolute;
+       z-index: 1;
+      height: 100%;
+      bottom: 0px;
+       top: 70px;
+       width: 100%;
+       right: 0px;
+       left: 0px;
+       }
         </style>
     </head>
     <body>
@@ -105,6 +116,10 @@
         </nav>
         
         </div>
+        
+         <img id="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg/240px-Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg">
+
+        
         <div id="lokiter">
          <h3 id="akt">Galeria zdjęć</h3>
 <img src="https://camo.githubusercontent.com/ec02c045e3f4c37f2255f32783469244a9ea17d8/68747470733a2f2f692e6962622e636f2f534a59395947582f44382d42392d41372d45342d443736392d343732372d382d4144312d353733303430392d4231352d42452e706e67">
