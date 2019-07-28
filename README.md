@@ -69,8 +69,8 @@
           background-color: #4e9447;
           position: absolute;
           top:300px;
-          right: 0px;
-         width:85%;
+          right: 10px;
+         left: 10px;
          font-size: 20px;
       }
       #akt{
