@@ -95,7 +95,7 @@
        position: absolute;
        z-index: 1;
       
-      bottom: 300px;
+      bottom: 250px;
        top: 70px;
        width: 100%;
        right: 0px;
