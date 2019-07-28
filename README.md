@@ -69,7 +69,7 @@
           background-color: #4e9447;
           position: absolute;
           top:300px;
-          right: 10px;
+          right: 0px;
          width:80%;
          font-size: 20px;
       }
