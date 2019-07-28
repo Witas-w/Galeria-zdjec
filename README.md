@@ -172,7 +172,7 @@
 <img src="https://s6.ifotos.pl/img/201907271_qseshqs.jpg">
 <img src="https://s6.ifotos.pl/img/201907271_qseshqq.jpg">
 
-<p>Sound of gavity</p>
+<p>Sound of gravity</p>
 <img src="https://s6.ifotos.pl/img/201907281_qsesrpp.jpg">
 
 <p>Politechnika Wrocławska ośrodek wczasowy</p>
