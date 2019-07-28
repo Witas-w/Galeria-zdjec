@@ -106,9 +106,9 @@
         </div>
         <div id="lokiter">
          <h3 id="akt">Galeria zdjęć</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/USTKA._AB-021.JPG">
+<img src="https://camo.githubusercontent.com/ec02c045e3f4c37f2255f32783469244a9ea17d8/68747470733a2f2f692e6962622e636f2f534a59395947582f44382d42392d41372d45342d443736392d343732372d382d4144312d353733303430392d4231352d42452e706e67">
    <img src="https://i.ibb.co/HF6M6bV/81-A58662-34-C0-493-B-B211-A59-C36416-B70.jpg">
-    <img src="https://i.ibb.co/nj074kK/074-B68-BA-5-C32-4-A10-8-A89-7-D69-F6-C318-A4.png">
+    <img src="https://i.ibb.co/nj074kK/074-B68-BA-5-C32-4-A10-8-A89-7-D69-F6-C318-A4.png">        
 <p>Wodowanie Hollendarena</p>
 <img src="https://s6.ifotos.pl/img/15E84589-_qsexsra.jpg">
   <img src="https://s6.ifotos.pl/img/3DF9BB36-_qsexsxn.jpg"> 
