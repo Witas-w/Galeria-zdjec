@@ -117,8 +117,8 @@
         
         </div>
         
-         <img id="img" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Traben-Trarbach%2C_Wolf.jpg">
-
+         
+<img id="img" src="https://s.iha.com/00113734966/Traben-trarbach-Traben-trarbach.jpeg">
         
         <div id="lokiter">
          <h3 id="akt">Galeria zdjęć</h3>
