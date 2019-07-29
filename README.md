@@ -94,7 +94,7 @@
       #img {
        position: absolute;
        z-index: 1;
-      height: 230px;
+      height: 270px;
       bottom: 0px;
        top: 70px;
        width: 100%;
