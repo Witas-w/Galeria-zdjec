@@ -77,7 +77,7 @@
       }
       #akt{
           border-bottom:1px solid white;
-          
+          text-align: center;
       }
       .img{
           float: left;
