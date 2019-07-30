@@ -118,7 +118,7 @@
         </div>
         
          
-<img id="img" src="<img src="https://s6.ifotos.pl/img/670C82C4-_qseaxrh.jpg">">
+<img src="https://s6.ifotos.pl/img/670C82C4-_qseaxrh.jpg">
         
         <div id="lokiter">
          <h3 id="akt">Galeria zdjęć</h3>
