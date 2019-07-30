@@ -184,6 +184,10 @@
 <img src="https://s6.ifotos.pl/img/201907281_qseahxx.jpg">
 
 <p>Kanał portowy</p>
+<img src="https://s6.ifotos.pl/img/30C63D83-_qseaxrn.jpg">
+<img src="https://s6.ifotos.pl/img/6C956F18-_qseaxre.jpg">
+
+<p>Smok ustecki po trzecim przemalowaniu na kolor pomarańczowy</p>
         </div>
        
    
