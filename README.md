@@ -176,7 +176,14 @@
 <img src="https://s6.ifotos.pl/img/201907281_qsesrpp.jpg">
 
 <p>Politechnika Wrocławska ośrodek wczasowy</p>
+<img src="https://s6.ifotos.pl/img/201907281_qseahxh.jpg">
 
+
+<p>SM PRC 112 w porcie</p>
+<img src="https://s6.ifotos.pl/img/201907281_qseahxr.jpg">
+<img src="https://s6.ifotos.pl/img/201907281_qseahxx.jpg">
+
+<p>Kanał portowy</p>
         </div>
        
    
