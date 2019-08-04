@@ -123,6 +123,7 @@
           position: relative;
           top: 25px;
           right: 0px;
+          left: 0px;
            margin-right: 0px;
 }
          .menu a{
@@ -135,6 +136,7 @@
            background-color: white;
            top: 25px;
            right: 0px;
+           left: 0px;
             text-align: center;
           }
           
