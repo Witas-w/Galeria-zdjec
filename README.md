@@ -240,7 +240,11 @@
 <img src="https://s6.ifotos.pl/img/6C956F18-_qseaxre.jpg">
 
 <p>Smok ustecki po trzecim przemalowaniu na kolor pomarańczowy</p>
-        </div>
+       
+<a  href="https://ifotos.pl/z/qswpswe/"><img src="https://s6.ifotos.pl/img/EC039B8D-_qswpswe.jpg"></a>
+<p>TVN Projekt Plaża</p>
+
+ </div>
        
    
  
