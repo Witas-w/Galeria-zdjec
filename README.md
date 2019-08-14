@@ -172,7 +172,7 @@
      </div>   
         
          
-<img id="img" src="https://s6.ifotos.pl/img/764C124B-_qswewrq.jpg">
+<img id="img" src="https://s6.ifotos.pl/img/7D6E51F8-_qsweqrs.jpg">
         
         <div id="lokiter">
          <h3 id="akt">Galeria zdjęć</h3>
