@@ -22,6 +22,7 @@
            font-family: Arial;
            float: left;
           left: 0px;
+          z-index: 4;
        }
        #aut{
         
