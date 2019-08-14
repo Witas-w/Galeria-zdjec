@@ -22,7 +22,7 @@
            font-family: Arial;
            float: left;
           left: 0px;
-          z-index: 4;
+          z-index: 3;
        }
        #aut{
         
@@ -79,7 +79,7 @@
            line-height: 30px;
            right: 0px;
            top: 10px;
-           z-index: 3;
+           z-index: 4;
        }
        .menu{
          margin-right: 30px;  
