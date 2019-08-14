@@ -62,9 +62,9 @@
       #img {
        position: fixed;
        z-index: 1;
-      height: 230px;
+      height: 300px;
       bottom: 0px;
-       top: 70px;
+       top: 0px;
        width: 100%;
        right: 0px;
        left: 0px;
