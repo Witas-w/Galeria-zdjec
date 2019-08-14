@@ -60,7 +60,7 @@
      
       }
       #img {
-       position: absolute;
+       position: fixed;
        z-index: 1;
       height: 230px;
       bottom: 0px;
