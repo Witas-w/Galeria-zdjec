@@ -53,7 +53,7 @@
 <img class="img" src="https://s6.ifotos.pl/img/C3431DA6-_qsenwqa.png">
 <img class="img" src="https://s6.ifotos.pl/img/E7D4A1FA-_qsensph.png">
 <img class="img" src="https://s6.ifotos.pl/img/54B847AF-_qsenspx.png">
-<a  href="https://ifotos.pl/z/qswprnw/"><img src="https://s6.ifotos.pl/img/C01E7B4A-_qswprnw.jpg"></a>
+<a  href="https://ifotos.pl/z/qswprnw/"><img class="img" src="https://s6.ifotos.pl/img/C01E7B4A-_qswprnw.jpg"></a>
 <p>Dolina charlotty</p>
 <img class="img" src="https://s6.ifotos.pl/img/CD2689FD-_qsenqhh.jpg">
 <img class="img" src="https://s6.ifotos.pl/img/3FDAA6B6-_qsenqhr.jpg">
