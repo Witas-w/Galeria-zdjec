@@ -89,7 +89,7 @@
 
 <p>SM PRC 112 w porcie</p>
 <img class="img" src="https://s6.ifotos.pl/img/201907281_qseahxr.jpg">
-<img src="https://s6.ifotos.pl/img/201907281_qseahxx.jpg">
+<img class="img" src="https://s6.ifotos.pl/img/201907281_qseahxx.jpg">
 
 <p>Kanał portowy</p>
 <img class="img" src="https://s6.ifotos.pl/img/30C63D83-_qseaxrn.jpg">
