@@ -9,7 +9,7 @@
     <body>
     <div class="menu-1">
     
-        <p><span id="aut"><strong>Autor:</strong></span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
+<img class="logo" src="logo.png">
          </div>
          <div class="nav"> 
          <label for="toggle">&#9776;</label>
@@ -22,12 +22,12 @@
              <a href="https://witas-w.github.io/OStatkach/">Statki</a>
      </div>  
         
-     </div>   
+</div>   
         
          
 <img id="img" src="https://s6.ifotos.pl/img/DBF2C311-_qsweqxn.jpg">
         
-        <div id="lokiter">
+ <div id="lokiter">
          <h3 id="akt">Galeria zdjęć</h3>
 <img src="https://camo.githubusercontent.com/ec02c045e3f4c37f2255f32783469244a9ea17d8/68747470733a2f2f692e6962622e636f2f534a59395947582f44382d42392d41372d45342d443736392d343732372d382d4144312d353733303430392d4231352d42452e706e67">
    <img src="https://i.ibb.co/HF6M6bV/81-A58662-34-C0-493-B-B211-A59-C36416-B70.jpg">
