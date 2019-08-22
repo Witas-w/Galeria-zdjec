@@ -114,7 +114,7 @@
          .menu{
            display: none;
            text-align: center;
-           width: 500px;
+           width: 100vw;
           position: relative;
           top: 25px;
           right: 0px;
@@ -123,7 +123,7 @@
 }
          .menu a{
            display: block;
-           width: 500px;
+           width: 100vw;
            text-decoration: none;
            border-bottom: 1px solid black;
            margin: 0;
