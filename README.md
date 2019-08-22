@@ -5,7 +5,17 @@
         <meta charset="utf-8">
         <title>testowa.pl</title>
        <link rel="stylesheet" type="text/css" href="main.css">
-    </head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146144986-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146144986-3');
+</script>
+
+</head>
     <body>
     <div class="menu-1">
     
